@@ -1,0 +1,17 @@
+
+[
+  {
+    "id": 1,
+    "title": "Bộ luật Dân sự 2015",
+    "category": "Dân sự",
+    "content": "Nội dung Bộ luật Dân sự 2015...",
+    "keywords": ["dân sự", "hợp đồng", "nghĩa vụ"]
+  },
+  {
+    "id": 2,
+    "title": "Luật Đất đai 2013",
+    "category": "Đất đai",
+    "content": "Nội dung Luật Đất đai 2013...",
+    "keywords": ["đất", "sổ đỏ", "quyền sử dụng"]
+  }
+]

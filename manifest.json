@@ -1,0 +1,9 @@
+
+{
+  "name": "Thư viện Pháp luật",
+  "description": "Ứng dụng tra cứu văn bản luật tích hợp Pi Network",
+  "category": "Utilities",
+  "url": "https://yourdomain.com",
+  "icons": ["https://yourdomain.com/icon.png"],
+  "permissions": ["username", "payments"]
+}
